@@ -12,7 +12,7 @@
  <modelVersion>4.0.0</modelVersion>
  <groupId>org.geoserver</groupId>
  <artifactId>geoserver</artifactId>
- <packaging>pom</packaging>
+ <packaging>war</packaging>
  <version>2.13-SNAPSHOT</version>
  <name>GeoServer</name>
 
